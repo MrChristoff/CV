@@ -62,17 +62,17 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 
 ## Experience
 
+**Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust** (2015 to 2016)
+*Conservation Trainee*
+- Leading volunteer groups
+- Livestock management
+- Tree felling
+- Vehicle & equipment Maintenance
+
 **Various Media and Tech companies, including: Sony Pictures Europe, All3Media, Ask Jeeves** (2000 to 2015)
 *IT Support Analyst*
 - Support and implement bespoke and of the shelf systems and products
 - Desk side and remote support of mobile and static hardware, to staff of all levels.
-
-**Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust** (2015 to 2016)
-*Conservation Trainee*
-- Tree felling
-- Livestock management
-- Leading volunteer groups
-- Vehicle & equipment Maintenance
 
 ### Interests
 - Running keeps me sane! No phone, no music, no magic watch, just a destination or some allocated time.
