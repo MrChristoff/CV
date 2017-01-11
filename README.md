@@ -1,7 +1,7 @@
 ## Chris Lawrence
 
-I am a Full Stack Developer, former IT support analyst and amateur arborist. I have a burning desire to make systems work perfectly, and calm analytical approach to problem solving.
-Having spent over a decade as an IT support analyst in the tech and media industry I have a wealth of experience working in technical teams that has taught me how to communicate effectively with a diverse range of colleges. I took a break from the rat-race and spent an amazing year working in conservation, it was this time that gave me the perspective and confidence to do something I am passionate about and not compromise, so I took the plunge and, successfully completed Europe’s leading developer boot camp: Makers Academy
+I am a Full Stack Developer, former IT support analyst and amateur arborist. I have a burning desire to make systems work perfectly, and a calm analytical approach to problem solving.
+Having spent over a decade as an IT support analyst in the tech and media industry I have a wealth of experience working in technical teams, that has taught me how to communicate effectively with a diverse range of colleges. I took a break from the rat-race and spent an amazing year working in conservation, it was this time that gave me the perspective and confidence to do something I am passionate about and not compromise, so I took the plunge and, successfully completed Europe’s leading developer boot camp: Makers Academy
 
 I'm looking for a role that lets me grow my development skills to be able to build solid, adaptable solutions, in a team that can be friends, not just colleagues.  
 
@@ -65,8 +65,7 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 **Various Media and Tech companies, including: Sony Pictures Europe, All3Media, Ask Jeeves** (2000 to 2015)
 *IT Support Analyst*
 - Support and implement bespoke and of the shelf systems and products
-- Desk side and remote support to staff of all levels
--
+- Desk side and remote support of mobile and static hardware, to staff of all levels.
 
 **Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust** (2015 to 2016)
 *Conservation Trainee*
