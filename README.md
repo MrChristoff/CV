@@ -1,7 +1,7 @@
 ## Chris Lawrence
 
 I am a Full Stack Developer, former IT support analyst and amateur arborist. I have a burning desire to make systems work perfectly, and a calm analytical approach to problem solving.
-Having spent over a decade as an IT support analyst in the tech and media industry I have a wealth of experience working in technical teams, that has taught me how to communicate effectively with a diverse range of colleges. I took a break from the rat-race and spent an amazing year working in conservation, it was this time that gave me the perspective and confidence to do something I am passionate about and not compromise, so I took the plunge and, successfully completed Europe’s leading developer boot camp: Makers Academy
+Having spent over a decade as an IT support analyst in the tech and media industry I have a wealth of experience working in technical teams, which has taught me how to communicate effectively with a diverse range of colleagues. I took a break from the rat-race and spent an amazing year working in conservation, it was this time that gave me the perspective and confidence to do something I am passionate about and not compromise. Therefore I took the plunge and successfully completed Europe’s leading developer boot camp: Makers Academy
 
 I'm looking for a role that lets me grow my development skills to be able to build solid, adaptable solutions, in a team that can be friends, not just colleagues.  
 
@@ -26,7 +26,7 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [ChoreMatick](https://github.com/ChoreMatick/ChoreMatick/tree/master/chorematick) | An Amazon Alexa skill (Unpublished, still in development stage) that lets a guardian set chores for a child to complete.  The child is able to request their chore, then tell an Alexa enabled device, once they have completed the task. When the child claims the task is complete, an PIN code is generated and sent with a notification to the parents mobile device. This PIN code can then be used by the parent to confirm the task has been completed The team also put together a short ['advert'](https://www.youtube.com/watch?v=jK6xQBi9nB4) for the project. | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB, JUnit, Mockito and Codeship |
+| [ChoreMatick](https://github.com/ChoreMatick/ChoreMatick/tree/master/chorematick) | An Amazon Alexa skill (Unpublished, still in development stage) that lets a guardian set chores for a child to complete.  The child is able to request their chore, then tell an Alexa enabled device, once they have completed the task. When the child claims the task is complete, an PIN code is generated and sent with a notification to the parents mobile device. This PIN code can then be used by the parent to confirm the task has been completed. We also put together a short ['advert'](https://www.youtube.com/watch?v=jK6xQBi9nB4) for the project. | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB, JUnit, Mockito and Codeship |
 |[Haskell calculator](https://github.com/MrChristoff/interpreter)| Interpreter written in Haskell that takes simple mathematical expressions (multiplication, division, addition, subtraction and parenthesis) in the form of a string. It then tokenises, parses and evaluates the string, returning an integer.| Haskel, Hspec,  Glasgow Haskell Compiler.|
 
 
@@ -71,10 +71,9 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 
 **Various Media and Tech companies, including: Sony Pictures Europe, All3Media, Ask Jeeves** (2000 to 2015)
 *IT Support Analyst*
-- Support and implement bespoke and of the shelf systems and products
+- Support and implement bespoke and off the shelf systems and products
 - Desk side and remote support of mobile and static hardware, to staff of all levels.
 
 ### Interests
 - Running keeps me sane! No phone, no music, no magic watch, just a destination or some allocated time.
-- Green spaces (big and small). Having spent time working in conservation I have a deeper appreciation for the habitats and eco-systems of Britain,
-with a particular appreciation for trees and woodlands.
+- Green spaces (big and small). Having spent time working in conservation I have a deeper appreciation for the habitats and eco-systems of Britain, with a particular appreciation for trees and woodlands.
