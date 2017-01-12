@@ -52,13 +52,13 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 - City and Guilds PC Repair and Maintenance Part 2 & 3
 - Transferred from daytime to the evening, as I got my first IT job part way through the course
 
-#### College of North West London (September 1996 to August 1997)
-- BTEC First Electronic Engineering
+#### College of North West London (September 1995 to August 1996)
+- BTEC First Diploma in Electronic Engineering
 
 #### Other qualifications
 
 - City & Guilds NPTC Level 2 Award in Ground Based Chainsaw Operator
-- St Johns Ambulance First Aid at work - *Current valid certificate*
+- St John Ambulance 'First Aid at Work' certificate - *valid until April 2018*
 
 ## Experience
 
