@@ -35,11 +35,13 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 #### Makers Academy (August 2016 - December 2016)
 
 - Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Independent learning and problem-solving
+- Agile, TDD, SOLID, XP
+- OOP, MVC, Data persistance
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Java, Haskell, 
+- Rspec, Jasmine, Mockito
+
 
 #### Capel Manor (September 2013 - August 2014)
 
@@ -71,8 +73,12 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 
 **Various Media and Tech companies, including: Sony Pictures Europe, All3Media, Ask Jeeves** (2000 to 2015)
 *IT Support Analyst*
+- Lead engineer on hardware roll-outs to executive staff
+- Mentor to junior engineers
 - Support and implement bespoke and off the shelf systems and products
-- Desk side and remote support of mobile and static hardware, to staff of all levels.
+- Desk side and remote support of mobile and static hardware, to staff of all levels
+- Configure and document mobile networks for ‘On site’ Broadcasts
+
 
 ### Interests
 - Running keeps me sane! No phone, no music, no magic watch, just a destination or some allocated time.
