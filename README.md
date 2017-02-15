@@ -1,6 +1,6 @@
 ## Chris Lawrence
 
-I am a Full Stack Developer, former IT support analyst and amateur arborist. I have a burning desire to make systems work perfectly, and a calm analytical approach to problem solving.
+I am a Junior Web Developer, former IT support analyst and amateur arborist. I have a burning desire to make systems work perfectly, and a calm analytical approach to problem solving.
 Having spent over a decade as an IT support analyst in the tech and media industry I have a wealth of experience working in technical teams, which has taught me how to communicate effectively with a diverse range of colleagues. I took a break from the rat-race and spent an amazing year working in conservation, it was this time that gave me the perspective and confidence to do something I am passionate about and not compromise. Therefore I took the plunge and successfully completed Europe’s leading developer boot camp: Makers Academy
 
 I'm looking for a role that lets me grow my development skills to be able to build solid, adaptable solutions, in a team that can be friends, not just colleagues.  
@@ -39,7 +39,7 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 - Agile, TDD, SOLID, XP
 - OOP, MVC, Data persistance
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Java, Haskell, 
+- Ruby, Rails, Javascript, Java, Haskell 
 - Rspec, Jasmine, Mockito
 
 
@@ -64,15 +64,14 @@ For a complete list, please visit my [GitHub](https://github.com/MrChristoff).
 
 ## Experience
 
-**Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust** (2015 to 2016)
-*Conservation Trainee*
+*Conservation Trainee* **Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust** (2015 to 2016)
 - Leading volunteer groups
 - Livestock management
 - Tree felling
 - Vehicle & equipment Maintenance
 
+*IT Support Analyst* 
 **Various Media and Tech companies, including: Sony Pictures Europe, All3Media, Ask Jeeves** (2000 to 2015)
-*IT Support Analyst*
 - Lead engineer on hardware roll-outs to executive staff
 - Mentor to junior engineers
 - Support and implement bespoke and off the shelf systems and products
